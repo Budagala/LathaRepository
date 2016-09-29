@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="JenkinsSuite" duration-ms="6108" started-at="2016-09-29T02:41:31Z" finished-at="2016-09-29T02:41:37Z">
+    <groups>
+    </groups>
+    <test name="JenkinsTest" duration-ms="6108" started-at="2016-09-29T02:41:31Z" finished-at="2016-09-29T02:41:37Z">
+      <class name="com.pack.JenkinsDemo.SampleTestCase">
+        <test-method status="PASS" signature="setUP()[pri:0, instance:com.pack.JenkinsDemo.SampleTestCase@3aa9e816]" name="setUP" is-config="true" duration-ms="6062" started-at="2016-09-29T08:11:31Z" finished-at="2016-09-29T08:11:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method status="PASS" signature="verifyGooglePageTitle()[pri:0, instance:com.pack.JenkinsDemo.SampleTestCase@3aa9e816]" name="verifyGooglePageTitle" duration-ms="6" started-at="2016-09-29T08:11:37Z" finished-at="2016-09-29T08:11:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyGooglePageTitle -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.pack.JenkinsDemo.SampleTestCase@3aa9e816]" name="tearDown" is-config="true" duration-ms="3" started-at="2016-09-29T08:11:37Z" finished-at="2016-09-29T08:11:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.pack.JenkinsDemo.SampleTestCase -->
+    </test> <!-- JenkinsTest -->
+  </suite> <!-- JenkinsSuite -->
+</testng-results>
