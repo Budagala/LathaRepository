@@ -28,7 +28,7 @@ public class SampleTestCase {
 	{
 		
 		//Assert.assertTrue(driver.getTitle().contains("Google"));
-		Assert.assertEquals(driver.getTitle(), "Google");
+		Assert.assertEquals(driver.getTitle(), "Google1");
 	}
 	
 	@AfterClass
